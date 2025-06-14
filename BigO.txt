@@ -1,0 +1,21 @@
+BigO describes how long it take to run a program and how much memory it takes to run a program.
+
+BigO notation is used to describe the complexity of an algorithm.
+
+BigO notation is used to describe the worst case scenario of an algorithm.
+
+BigO notation is used to describe the best case scenario of an algorithm.
+
+BigO notation is used to describe the average case scenario of an algorithm.
+
+BigO notation is used to describe the time complexity of an algorithm.
+
+BigO notation is used to describe the space complexity of an algorithm.
+
+O(n) - Linear Time Complexity :- grows as the size of the input increases.
+
+O(1) - Constant Time Complexity :- does not grow as the size of the input increases.
+
+O(n^2) - Quadratic Time Complexity :- grows as the square of the size of the input increases.
+
+O(log n) - Logarithmic Time Complexity :- grows as the logarithm of the size of the input increases.
